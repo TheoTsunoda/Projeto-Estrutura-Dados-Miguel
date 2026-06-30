@@ -1,0 +1,85 @@
+<svg viewBox="0 0 820 460" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,Arial,sans-serif" style="background:#fff">
+<text x="78" y="24" font-size="18" font-weight="700">Removal time per element</text>
+<text x="78" y="40" font-size="12" fill="#666">nanoseconds / remove vs. number of elements (log-log)</text>
+<line x1="78.0" y1="400.0" x2="620.0" y2="400.0" stroke="#eee"/>
+<text x="70.0" y="404.0" font-size="11" fill="#888" text-anchor="end">1e1</text>
+<line x1="78.0" y1="329.2" x2="620.0" y2="329.2" stroke="#eee"/>
+<text x="70.0" y="333.2" font-size="11" fill="#888" text-anchor="end">1e2</text>
+<line x1="78.0" y1="258.4" x2="620.0" y2="258.4" stroke="#eee"/>
+<text x="70.0" y="262.4" font-size="11" fill="#888" text-anchor="end">1e3</text>
+<line x1="78.0" y1="187.6" x2="620.0" y2="187.6" stroke="#eee"/>
+<text x="70.0" y="191.6" font-size="11" fill="#888" text-anchor="end">1e4</text>
+<line x1="78.0" y1="116.8" x2="620.0" y2="116.8" stroke="#eee"/>
+<text x="70.0" y="120.8" font-size="11" fill="#888" text-anchor="end">1e5</text>
+<line x1="78.0" y1="46.0" x2="620.0" y2="46.0" stroke="#eee"/>
+<text x="70.0" y="50.0" font-size="11" fill="#888" text-anchor="end">1e6</text>
+<line x1="78.0" y1="46.0" x2="78.0" y2="400.0" stroke="#eee"/>
+<text x="78.0" y="418.0" font-size="11" fill="#888" text-anchor="middle">1e3</text>
+<line x1="264.1" y1="46.0" x2="264.1" y2="400.0" stroke="#eee"/>
+<text x="264.1" y="418.0" font-size="11" fill="#888" text-anchor="middle">1e4</text>
+<line x1="450.1" y1="46.0" x2="450.1" y2="400.0" stroke="#eee"/>
+<text x="450.1" y="418.0" font-size="11" fill="#888" text-anchor="middle">1e5</text>
+<line x1="78.0" y1="46.0" x2="78.0" y2="400.0" stroke="#333"/>
+<line x1="78.0" y1="400.0" x2="620.0" y2="400.0" stroke="#333"/>
+<polyline fill="none" stroke="#dc2626" stroke-width="2.5" points="78.0,231.0 134.0,217.3 208.1,186.1 264.1,161.8 320.1,124.7 "/>
+<circle cx="78.0" cy="231.0" r="3.5" fill="#dc2626"/>
+<circle cx="134.0" cy="217.3" r="3.5" fill="#dc2626"/>
+<circle cx="208.1" cy="186.1" r="3.5" fill="#dc2626"/>
+<circle cx="264.1" cy="161.8" r="3.5" fill="#dc2626"/>
+<circle cx="320.1" cy="124.7" r="3.5" fill="#dc2626"/>
+<polyline fill="none" stroke="#2563eb" stroke-width="2.5" points="78.0,359.1 134.0,356.3 208.1,337.5 264.1,312.3 320.1,332.2 394.1,304.6 450.1,290.5 506.1,281.4 580.2,254.6 620.0,247.2 "/>
+<circle cx="78.0" cy="359.1" r="3.5" fill="#2563eb"/>
+<circle cx="134.0" cy="356.3" r="3.5" fill="#2563eb"/>
+<circle cx="208.1" cy="337.5" r="3.5" fill="#2563eb"/>
+<circle cx="264.1" cy="312.3" r="3.5" fill="#2563eb"/>
+<circle cx="320.1" cy="332.2" r="3.5" fill="#2563eb"/>
+<circle cx="394.1" cy="304.6" r="3.5" fill="#2563eb"/>
+<circle cx="450.1" cy="290.5" r="3.5" fill="#2563eb"/>
+<circle cx="506.1" cy="281.4" r="3.5" fill="#2563eb"/>
+<circle cx="580.2" cy="254.6" r="3.5" fill="#2563eb"/>
+<circle cx="620.0" cy="247.2" r="3.5" fill="#2563eb"/>
+<polyline fill="none" stroke="#16a34a" stroke-width="2.5" points="78.0,307.6 134.0,306.8 208.1,302.0 264.1,280.6 320.1,271.0 394.1,256.6 450.1,241.7 506.1,249.2 580.2,245.4 620.0,256.8 "/>
+<circle cx="78.0" cy="307.6" r="3.5" fill="#16a34a"/>
+<circle cx="134.0" cy="306.8" r="3.5" fill="#16a34a"/>
+<circle cx="208.1" cy="302.0" r="3.5" fill="#16a34a"/>
+<circle cx="264.1" cy="280.6" r="3.5" fill="#16a34a"/>
+<circle cx="320.1" cy="271.0" r="3.5" fill="#16a34a"/>
+<circle cx="394.1" cy="256.6" r="3.5" fill="#16a34a"/>
+<circle cx="450.1" cy="241.7" r="3.5" fill="#16a34a"/>
+<circle cx="506.1" cy="249.2" r="3.5" fill="#16a34a"/>
+<circle cx="580.2" cy="245.4" r="3.5" fill="#16a34a"/>
+<circle cx="620.0" cy="256.8" r="3.5" fill="#16a34a"/>
+<polyline fill="none" stroke="#d97706" stroke-width="2.5" points="78.0,295.3 134.0,272.4 208.1,283.7 264.1,278.6 320.1,256.7 394.1,243.6 450.1,234.9 506.1,239.4 580.2,231.9 620.0,238.1 "/>
+<circle cx="78.0" cy="295.3" r="3.5" fill="#d97706"/>
+<circle cx="134.0" cy="272.4" r="3.5" fill="#d97706"/>
+<circle cx="208.1" cy="283.7" r="3.5" fill="#d97706"/>
+<circle cx="264.1" cy="278.6" r="3.5" fill="#d97706"/>
+<circle cx="320.1" cy="256.7" r="3.5" fill="#d97706"/>
+<circle cx="394.1" cy="243.6" r="3.5" fill="#d97706"/>
+<circle cx="450.1" cy="234.9" r="3.5" fill="#d97706"/>
+<circle cx="506.1" cy="239.4" r="3.5" fill="#d97706"/>
+<circle cx="580.2" cy="231.9" r="3.5" fill="#d97706"/>
+<circle cx="620.0" cy="238.1" r="3.5" fill="#d97706"/>
+<polyline fill="none" stroke="#7c3aed" stroke-width="2.5" points="78.0,318.9 134.0,308.8 208.1,293.8 264.1,287.4 320.1,270.2 394.1,250.9 450.1,249.3 506.1,172.3 580.2,131.3 620.0,89.3 "/>
+<circle cx="78.0" cy="318.9" r="3.5" fill="#7c3aed"/>
+<circle cx="134.0" cy="308.8" r="3.5" fill="#7c3aed"/>
+<circle cx="208.1" cy="293.8" r="3.5" fill="#7c3aed"/>
+<circle cx="264.1" cy="287.4" r="3.5" fill="#7c3aed"/>
+<circle cx="320.1" cy="270.2" r="3.5" fill="#7c3aed"/>
+<circle cx="394.1" cy="250.9" r="3.5" fill="#7c3aed"/>
+<circle cx="450.1" cy="249.3" r="3.5" fill="#7c3aed"/>
+<circle cx="506.1" cy="172.3" r="3.5" fill="#7c3aed"/>
+<circle cx="580.2" cy="131.3" r="3.5" fill="#7c3aed"/>
+<circle cx="620.0" cy="89.3" r="3.5" fill="#7c3aed"/>
+<rect x="640" y="56" width="14" height="14" fill="#dc2626"/>
+<text x="660" y="68" font-size="13">Linked List</text>
+<rect x="640" y="78" width="14" height="14" fill="#2563eb"/>
+<text x="660" y="90" font-size="13">Hash Table</text>
+<rect x="640" y="100" width="14" height="14" fill="#16a34a"/>
+<text x="660" y="112" font-size="13">AVL Tree</text>
+<rect x="640" y="122" width="14" height="14" fill="#d97706"/>
+<text x="660" y="134" font-size="13">Skip List</text>
+<rect x="640" y="144" width="14" height="14" fill="#7c3aed"/>
+<text x="660" y="156" font-size="13">Trie *</text>
+<text x="640" y="172" font-size="11" fill="#999">* keyed on title</text>
+</svg>

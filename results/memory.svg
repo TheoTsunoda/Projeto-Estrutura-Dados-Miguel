@@ -1,0 +1,89 @@
+<svg viewBox="0 0 820 460" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,Arial,sans-serif" style="background:#fff">
+<text x="78" y="24" font-size="18" font-weight="700">Memory usage</text>
+<text x="78" y="40" font-size="12" fill="#666">bytes vs. number of elements (log-log)</text>
+<line x1="78.0" y1="400.0" x2="620.0" y2="400.0" stroke="#eee"/>
+<text x="70.0" y="404.0" font-size="11" fill="#888" text-anchor="end">1e4</text>
+<line x1="78.0" y1="349.4" x2="620.0" y2="349.4" stroke="#eee"/>
+<text x="70.0" y="353.4" font-size="11" fill="#888" text-anchor="end">1e5</text>
+<line x1="78.0" y1="298.9" x2="620.0" y2="298.9" stroke="#eee"/>
+<text x="70.0" y="302.9" font-size="11" fill="#888" text-anchor="end">1e6</text>
+<line x1="78.0" y1="248.3" x2="620.0" y2="248.3" stroke="#eee"/>
+<text x="70.0" y="252.3" font-size="11" fill="#888" text-anchor="end">1e7</text>
+<line x1="78.0" y1="197.7" x2="620.0" y2="197.7" stroke="#eee"/>
+<text x="70.0" y="201.7" font-size="11" fill="#888" text-anchor="end">1e8</text>
+<line x1="78.0" y1="147.1" x2="620.0" y2="147.1" stroke="#eee"/>
+<text x="70.0" y="151.1" font-size="11" fill="#888" text-anchor="end">1e9</text>
+<line x1="78.0" y1="96.6" x2="620.0" y2="96.6" stroke="#eee"/>
+<text x="70.0" y="100.6" font-size="11" fill="#888" text-anchor="end">1e10</text>
+<line x1="78.0" y1="46.0" x2="620.0" y2="46.0" stroke="#eee"/>
+<text x="70.0" y="50.0" font-size="11" fill="#888" text-anchor="end">1e11</text>
+<line x1="78.0" y1="46.0" x2="78.0" y2="400.0" stroke="#eee"/>
+<text x="78.0" y="418.0" font-size="11" fill="#888" text-anchor="middle">1e3</text>
+<line x1="264.1" y1="46.0" x2="264.1" y2="400.0" stroke="#eee"/>
+<text x="264.1" y="418.0" font-size="11" fill="#888" text-anchor="middle">1e4</text>
+<line x1="450.1" y1="46.0" x2="450.1" y2="400.0" stroke="#eee"/>
+<text x="450.1" y="418.0" font-size="11" fill="#888" text-anchor="middle">1e5</text>
+<line x1="78.0" y1="46.0" x2="78.0" y2="400.0" stroke="#333"/>
+<line x1="78.0" y1="400.0" x2="620.0" y2="400.0" stroke="#333"/>
+<polyline fill="none" stroke="#dc2626" stroke-width="2.5" points="78.0,389.6 134.0,374.4 208.1,354.3 264.1,339.1 320.1,323.9 "/>
+<circle cx="78.0" cy="389.6" r="3.5" fill="#dc2626"/>
+<circle cx="134.0" cy="374.4" r="3.5" fill="#dc2626"/>
+<circle cx="208.1" cy="354.3" r="3.5" fill="#dc2626"/>
+<circle cx="264.1" cy="339.1" r="3.5" fill="#dc2626"/>
+<circle cx="320.1" cy="323.9" r="3.5" fill="#dc2626"/>
+<polyline fill="none" stroke="#2563eb" stroke-width="2.5" points="78.0,303.3 134.0,302.9 208.1,301.7 264.1,299.8 320.1,296.4 394.1,288.5 450.1,279.6 506.1,268.4 580.2,251.1 620.0,241.1 "/>
+<circle cx="78.0" cy="303.3" r="3.5" fill="#2563eb"/>
+<circle cx="134.0" cy="302.9" r="3.5" fill="#2563eb"/>
+<circle cx="208.1" cy="301.7" r="3.5" fill="#2563eb"/>
+<circle cx="264.1" cy="299.8" r="3.5" fill="#2563eb"/>
+<circle cx="320.1" cy="296.4" r="3.5" fill="#2563eb"/>
+<circle cx="394.1" cy="288.5" r="3.5" fill="#2563eb"/>
+<circle cx="450.1" cy="279.6" r="3.5" fill="#2563eb"/>
+<circle cx="506.1" cy="268.4" r="3.5" fill="#2563eb"/>
+<circle cx="580.2" cy="251.1" r="3.5" fill="#2563eb"/>
+<circle cx="620.0" cy="241.1" r="3.5" fill="#2563eb"/>
+<polyline fill="none" stroke="#16a34a" stroke-width="2.5" points="78.0,374.4 134.0,359.2 208.1,339.1 264.1,323.9 320.1,308.7 394.1,288.5 450.1,273.3 506.1,258.1 580.2,238.0 620.0,227.1 "/>
+<circle cx="78.0" cy="374.4" r="3.5" fill="#16a34a"/>
+<circle cx="134.0" cy="359.2" r="3.5" fill="#16a34a"/>
+<circle cx="208.1" cy="339.1" r="3.5" fill="#16a34a"/>
+<circle cx="264.1" cy="323.9" r="3.5" fill="#16a34a"/>
+<circle cx="320.1" cy="308.7" r="3.5" fill="#16a34a"/>
+<circle cx="394.1" cy="288.5" r="3.5" fill="#16a34a"/>
+<circle cx="450.1" cy="273.3" r="3.5" fill="#16a34a"/>
+<circle cx="506.1" cy="258.1" r="3.5" fill="#16a34a"/>
+<circle cx="580.2" cy="238.0" r="3.5" fill="#16a34a"/>
+<circle cx="620.0" cy="227.1" r="3.5" fill="#16a34a"/>
+<polyline fill="none" stroke="#d97706" stroke-width="2.5" points="78.0,369.3 134.0,354.3 208.1,334.3 264.1,318.9 320.1,303.8 394.1,283.6 450.1,268.4 506.1,253.2 580.2,233.1 620.0,222.2 "/>
+<circle cx="78.0" cy="369.3" r="3.5" fill="#d97706"/>
+<circle cx="134.0" cy="354.3" r="3.5" fill="#d97706"/>
+<circle cx="208.1" cy="334.3" r="3.5" fill="#d97706"/>
+<circle cx="264.1" cy="318.9" r="3.5" fill="#d97706"/>
+<circle cx="320.1" cy="303.8" r="3.5" fill="#d97706"/>
+<circle cx="394.1" cy="283.6" r="3.5" fill="#d97706"/>
+<circle cx="450.1" cy="268.4" r="3.5" fill="#d97706"/>
+<circle cx="506.1" cy="253.2" r="3.5" fill="#d97706"/>
+<circle cx="580.2" cy="233.1" r="3.5" fill="#d97706"/>
+<circle cx="620.0" cy="222.2" r="3.5" fill="#d97706"/>
+<polyline fill="none" stroke="#7c3aed" stroke-width="2.5" points="78.0,221.2 134.0,208.9 208.1,193.4 264.1,181.0 320.1,167.0 394.1,146.8 450.1,132.5 506.1,116.9 580.2,96.6 620.0,86.3 "/>
+<circle cx="78.0" cy="221.2" r="3.5" fill="#7c3aed"/>
+<circle cx="134.0" cy="208.9" r="3.5" fill="#7c3aed"/>
+<circle cx="208.1" cy="193.4" r="3.5" fill="#7c3aed"/>
+<circle cx="264.1" cy="181.0" r="3.5" fill="#7c3aed"/>
+<circle cx="320.1" cy="167.0" r="3.5" fill="#7c3aed"/>
+<circle cx="394.1" cy="146.8" r="3.5" fill="#7c3aed"/>
+<circle cx="450.1" cy="132.5" r="3.5" fill="#7c3aed"/>
+<circle cx="506.1" cy="116.9" r="3.5" fill="#7c3aed"/>
+<circle cx="580.2" cy="96.6" r="3.5" fill="#7c3aed"/>
+<circle cx="620.0" cy="86.3" r="3.5" fill="#7c3aed"/>
+<rect x="640" y="56" width="14" height="14" fill="#dc2626"/>
+<text x="660" y="68" font-size="13">Linked List</text>
+<rect x="640" y="78" width="14" height="14" fill="#2563eb"/>
+<text x="660" y="90" font-size="13">Hash Table</text>
+<rect x="640" y="100" width="14" height="14" fill="#16a34a"/>
+<text x="660" y="112" font-size="13">AVL Tree</text>
+<rect x="640" y="122" width="14" height="14" fill="#d97706"/>
+<text x="660" y="134" font-size="13">Skip List</text>
+<rect x="640" y="144" width="14" height="14" fill="#7c3aed"/>
+<text x="660" y="156" font-size="13">Trie *</text>
+<text x="640" y="172" font-size="11" fill="#999">* keyed on title</text>
+</svg>

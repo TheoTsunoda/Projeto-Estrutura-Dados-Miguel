@@ -1,0 +1,3 @@
+C:/Users/migue/CLionProjects/estrutura_dados_projeto/cmake-build-debug/CMakeFiles/estrutura_dados_projeto.dir
+C:/Users/migue/CLionProjects/estrutura_dados_projeto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migue/CLionProjects/estrutura_dados_projeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
